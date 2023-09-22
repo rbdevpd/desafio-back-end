@@ -15,9 +15,9 @@ Seu desafio será implementar um serviço que determine quais modalidades de emp
 
 As modalidades de empréstimo que serão analisadas são:
 
-Empréstimo pessoal: Taxa de juros de 4%.
-Empréstimo consignado: Taxa de juros de 2%.
-Empréstimo com garantia: Taxa de juros de 3%.
+-Empréstimo pessoal: Taxa de juros de 4%.
+-Empréstimo consignado: Taxa de juros de 2%.
+-Empréstimo com garantia: Taxa de juros de 3%.
 
 As modalidades de empréstimo disponíveis para uma pessoa são baseadas no salário e na função.
 

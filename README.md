@@ -1,8 +1,11 @@
 ﻿# desafio-back-end 1
 
  Crie um servido que receba:
+ //
  -id
+ //
  -Nome
+ //
  -Vaga
  -Salário 
  de cada funcionário
@@ -14,9 +17,11 @@
 Seu desafio será implementar um serviço que determine quais modalidades de empréstimo uma pessoa tem acesso.
 
 As modalidades de empréstimo que serão analisadas são:
-
+//
 -Empréstimo pessoal: Taxa de juros de 4%.
+//
 -Empréstimo consignado: Taxa de juros de 2%.
+//
 -Empréstimo com garantia: Taxa de juros de 3%.
 
 As modalidades de empréstimo disponíveis para uma pessoa são baseadas no salário e na função.
